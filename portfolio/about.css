@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+body{
+    background-color:rgb(93, 124, 103);
+    
+}
+.first{
+    background-color: black;
+    border: 2px solid black;
+    height: 10px;
+    
+}
+
+.second{
+    height: 40%;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: black;
+    margin-top: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.about{
+    background-color: bisque;
+    height: 20px;
+    width: 98px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 45%;
+    margin-top: 4px;
+
+}
+.text{
+    padding-top: 6%;
+    background-color: wheat;
+    color:black;
+
+    border: 2px solid wheat;
+    border-radius: 10px;
+    height: 70%;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.bottom{
+    border: 2px solid black;
+    height: 10px;
+    margin-top: 7%;
+    background-color: black;
+}
